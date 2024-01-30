@@ -2,7 +2,6 @@
 **Lab. Exercise 4(LE):** 
 
 
-
 |**LE4.1** |**Question** |
 | - | - |
 ||<p>WAP to find the largest between three numbers through keyboard.  **Input:** Enter two numbers: 80 90 100 </p><p>**Output:** The largest number is 100 </p>|
@@ -15,7 +14,7 @@
 |**LE4.5** |**Question** |
 ||<p>WAP to calculate the electric bill by inputting the previous and present meter reading. The bill amount for 1st 100 units Rs 1.40 per unit, for next 100 units Rs 2.50 per unit and for rest units Rs 3.20 per unit. </p><p>**Input:**  </p><p>Enter the previous meter reading: 3500 </p><p>Enter the current meter reading: 4000 </p><p>**Output:** Bill Amount: 1350 </p>|
 
-**Home Exercise (HE):** 
+*Home Exercise (HE):*
 
 
 
